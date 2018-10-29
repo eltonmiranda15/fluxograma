@@ -1,0 +1,39 @@
+
+
+.wallpaper {
+  background: url("../img/maodada.jpeg") no-repeat bottom center scroll;
+  display:table;
+  width: 100%;
+  height:100vh;
+  padding: 100px 0; 
+  color:white; 
+  background-size: cover;
+  background-position: 30% 45%;
+}
+
+
+
+.field-text{
+  max-width: 450px;
+  position: relative;
+  float: left;
+}
+
+.question {
+  position: relative;
+  float: right;
+  right: 5em;
+  bottom: 3em;
+  color: black;
+  background-color: #ffffff6e;
+  border-radius: 3px;
+  width: 601px;
+  height: 408px;
+  text-align: center;
+  text-shadow: 2px 2px 21px;
+}
+/*# sourceMappingURL=index.css.map */
+
+#classPergunta {
+  display:none;
+}

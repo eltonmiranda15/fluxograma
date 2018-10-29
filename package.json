@@ -1,0 +1,17 @@
+{
+  "name": "fluxograma",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "gulp": "gulp"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "bootstrap": "^4.1.3",
+    "gulp": "^3.9.1",
+    "sass": "^1.14.1"
+  }
+}
